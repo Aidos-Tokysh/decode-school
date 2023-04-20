@@ -1,0 +1,35 @@
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 130px;
+    align-items: center;
+    background-color: #fff;
+    padding: 0 8%;
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.header-logo a{
+    text-decoration: none;
+    color:#00a3dc;
+    font-size: 50px;
+    font-weight: 500;
+}
+.header-search{
+    display: flex;
+    justify-content: center;
+}
+.input-search{
+    border: 1px solid #e7e7e7;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius:4px ;
+    outline: none;
+    padding: 0 50px;
+}
+.logo .button{
+    background: none;
+    border: none;
+}

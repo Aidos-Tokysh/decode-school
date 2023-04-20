@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('vendor/reset.css'); 
+@import url('vendor/same.css');
+@import url('components/button.css');
+@import url('components/header.css');
+@import url('pages/main.css');
+@import url('components/blog.css');
+@import url('components/form.css');
+@import url('pages/profile.css');
+@import url('components/dropdown.css');
+@import url("../../pages/NewBlock.css");
+@import url("./components/antd.css");

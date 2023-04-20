@@ -1,0 +1,9 @@
+.ant-select-selector{
+    min-height: 54px;
+    display: flex;
+    align-items: center;
+}
+.ant-select-selection-search{
+    display: flex;
+    align-items: center;
+}
